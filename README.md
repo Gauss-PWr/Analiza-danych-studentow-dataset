@@ -22,7 +22,7 @@ Zbiór zawiera **396 odpowiedzi**.
 
 Dane są dostępne w pliku:
 
-`data.csv`
+`dane.csv`
 
 Każdy wiersz odpowiada jednej odpowiedzi, a każda kolumna reprezentuje zmienną lub odpowiedź na pytanie ankietowe.
 
